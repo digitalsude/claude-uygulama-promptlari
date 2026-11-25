@@ -201,4 +201,10 @@ Tasarım: <sade / koyu tema / büyük yazı>.
 
 Hazırlayan: [@sude.ai](https://instagram.com/sude.ai) · İçerik üretimi için Claude skill'leri: [icerik-skilleri](https://github.com/digitalsude/icerik-skilleri)
 
-MIT lisansı: kopyala, değiştir, paylaş.
+## Lisans
+
+[CC BY-NC 4.0](LICENSE) © 2026 M. Sude Özkan ([@sude.ai](https://www.instagram.com/sude.ai/)).
+
+- ✅ Kullan, kendine göre değiştir, paylaş.
+- ✅ Paylaşırken kaynağı belirt (bu repo ve @sude.ai).
+- ❌ Ticari amaçla kullanma: paketleyip satma, ücretli kursa/ürüne koyma.
